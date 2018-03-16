@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (1.2.0)
+  - JVFloatLabeledTextField (1.0.4)
+  - XLForm (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 1.2)
+  - JVFloatLabeledTextField (~> 1.0.4)
+  - XLForm (from `https://github.com/xmartlabs/XLForm.git`)
+
+EXTERNAL SOURCES:
+  XLForm:
+    :git: https://github.com/xmartlabs/XLForm.git
+
+CHECKOUT OPTIONS:
+  XLForm:
+    :commit: 73a2d5275467c0aa04c4399896fc16a2c7189130
+    :git: https://github.com/xmartlabs/XLForm.git
+
+SPEC CHECKSUMS:
+  Alamofire: d765c5c1713aa64106b0228aaa600a1e6851f68d
+  JVFloatLabeledTextField: 18b05449d479733841b2c451c87e201a45de26e2
+  XLForm: 10fc7eb9e2d5df21a515fa3a794f4e26319abd0e
+
+COCOAPODS: 0.37.2
